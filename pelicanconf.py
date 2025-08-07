@@ -1,9 +1,11 @@
 from datetime import datetime
 
 AUTHOR = "David Martin"
-SITEURL = "http://localhost:8000"
+SITEURL = "https://djrmartin.github.io/DavidMartin.github.io/"
 SITENAME = "David Martin - PhD"
 SITETITLE = "David Martin - PhD"
+
+RELATIVE_URLS = True
 
 BROWSER_COLOR = "#333333"
 PYGMENTS_STYLE = "monokai"
