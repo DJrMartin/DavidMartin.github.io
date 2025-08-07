@@ -12,7 +12,7 @@ ROBOTS = "index, follow"
 
 THEME = "Flex"
 PATH = "content"
-OUTPUT_PATH = "blog/"
+OUTPUT_PATH = "docs/"
 TIMEZONE = "Europe/Paris"
 
 DISABLE_URL_HASH = True
