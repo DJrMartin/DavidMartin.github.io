@@ -19,7 +19,7 @@ TIMEZONE = "Europe/Paris"
 
 DISABLE_URL_HASH = True
 
-SITELOGO = "images/profile.png"
+SITELOGO = SITEURL + "images/profile.png"
 
 # PLUGIN_PATHS = ['pelican-plugins']
 

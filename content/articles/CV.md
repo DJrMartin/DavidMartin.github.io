@@ -1,9 +1,9 @@
-Title: CV 
+Title: cv
 Date: 2025-08-07 08:00 
 Modified: 2025-08-07 08:00 
 Category: CV
 
-# CV
+# Curriculum vitae
 
 ## EDUCATION
 
@@ -13,11 +13,11 @@ IRMAR / Movement Sport and Health (M2S lab) - Univ. de Rennes
 
 ### MSc - Cellular and molecular biology (2019)
 
-Univ. de Bretagne Occidentale / Univ. Claude Bernard 2017
+Univ. de Bretagne Occidentale / Univ. Claude Bernard
 
 ### BSc - Sports Science (2017)
 
-Univ. de Rennes 2 2014
+Univ. de Rennes 2
 
 ## EXPERIENCES
 
