@@ -1,7 +1,7 @@
 from datetime import datetime
 
 AUTHOR = "David Martin"
-SITEURL = "https://djrmartin.github.io/DavidMartin.github.io/"
+SITEURL = ""
 SITENAME = "David Martin - PhD"
 SITETITLE = "David Martin - PhD"
 
